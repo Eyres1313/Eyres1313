@@ -32,18 +32,18 @@ I am a bootcamp student at School of Code in the UK hoping to start a new career
  <summary>-- Professional Experience --</summary>
   
  <h2>School of Code Bootcamp</h2>
-- Team Collaboration: Proven experience in collaborating and communicating within agile teams, participating in pair programming, effectively communicating to solve problems and deliver products, demoing to industry experts
-- Problem Solving: Analysed complex problems and effectively broke them down into small manageable chunks of work while planning the workflow thoroughly before coding
-- Technical Skills: Proficient in modern programming languages such as JavaScript, TypeScript, Python, and experienced in full-stack development with technologies like Node, Express, React, Thunderclient and PostgreSQL
-- Automated Testing: Demonstrated ability to build and maintain comprehensive, reliable automated tests for both UI and API, actively contributing to the improvement of test frameworks and automation suites
-- Source Control: Proficient in the use of Git/GitHub to track changes, branch, merge, set issues and milestones
--Project Tech Ti-Tens - Quick access revision tool made for boot campers on the go! 
+- Team Collaboration: Proven experience in collaborating and communicating within agile teams, participating in pair programming, effectively communicating to solve problems and deliver products, demoing to industry experts<br>
+- Problem Solving: Analysed complex problems and effectively broke them down into small manageable chunks of work while planning the workflow thoroughly before coding<br>
+- Technical Skills: Proficient in modern programming languages such as JavaScript, TypeScript, Python, and experienced in full-stack development with technologies like Node, Express, React, Thunderclient and PostgreSQL<br>
+- Automated Testing: Demonstrated ability to build and maintain comprehensive, reliable automated tests for both UI and API, actively contributing to the improvement of test frameworks and automation suites<br>
+- Source Control: Proficient in the use of Git/GitHub to track changes, branch, merge, set issues and milestones<br>
+-Project Tech Ti-Tens - Quick access revision tool made for boot campers on the go! <br>
 
 <h2>Early Years Foundation Stage Leader</h2>
-- Leader of the Early Years Team - collaboratively planned, taught and assessed students 
-- Implemented the new Early Years Curriculum including breaking down complex statutory information into a simplified and digestible format
-- Effectively communicated daily with a diverse range of stakeholders such as parents, colleagues and other professionals 
-- Led my team, newly qualified staff and student teachers with transformational leadership practices including coaching and mentoring to meet teacher standards
-- Collected, analysed and evaluated complex data from quantitative and qualitative data sources to make informed decisions against departmental action plans as well as delivering timely reports on such findings to senior managers
-- Responsible for leading Mathematics and Computing school wide 
+- Leader of the Early Years Team - collaboratively planned, taught and assessed students <br>
+- Implemented the new Early Years Curriculum including breaking down complex statutory information into a simplified and digestible format<br>
+- Effectively communicated daily with a diverse range of stakeholders such as parents, colleagues and other professionals <br>
+- Led my team, newly qualified staff and student teachers with transformational leadership practices including coaching and mentoring to meet teacher standards<br>
+- Collected, analysed and evaluated complex data from quantitative and qualitative data sources to make informed decisions against departmental action plans as well as delivering timely reports on such findings to senior managers<br>
+- Responsible for leading Mathematics and Computing school wide <br>
  </details>
