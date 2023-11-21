@@ -24,8 +24,8 @@ I am a bootcamp student at School of Code in the UK hoping to start a new career
 ![icons8-node-js-48](https://github.com/Eyres1313/Eyres1313/assets/133891699/756c6eb5-5aee-4fbc-95db-0099bc6c6a84)
 
 <br>
-[![Codewars Badge](https://www.codewars.com/users/Eyres1313/badges/large)]
 
+![Codewars](https://github.r2v.ch/codewars?user=Eyres1313&stroke=BLUE)
 
 <h2>Other information:</h2>
 
