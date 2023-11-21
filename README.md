@@ -26,6 +26,7 @@ I am a bootcamp student at School of Code in the UK hoping to start a new career
 <br>
 [![Codewars Badge](https://www.codewars.com/users/Eyres1313/badges/large)](https://www.codewars.com/users/Eyres1313)
 
+
 <h2>Other information:</h2>
 
 <details>
